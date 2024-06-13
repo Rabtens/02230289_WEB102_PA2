@@ -16,8 +16,8 @@ Technologies Used:
 
 ### bash
 - Copy code
-git clone <>
-cd <project-folder>
+git clone <https://github.com/Rabtens/02230289_WEB102_PA2>
+cd <02230289_WEB102_PA2>
 Install dependencies
 
 ### bash
