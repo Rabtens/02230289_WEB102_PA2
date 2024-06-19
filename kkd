@@ -1,0 +1,16 @@
+project/
+├── prisma/
+│   └── schema.prisma
+├── src/
+│   ├── controllers/
+│   │   └── pokemonController.ts
+│   ├── middlewares/
+│   │   ├── auth.ts
+│   │   └── rateLimit.ts
+│   ├── routes/
+│   │   └── pokemonRoutes.ts
+│   ├── server.ts
+├── .env
+├── package.json
+├── README.md
+└── tsconfig.json
